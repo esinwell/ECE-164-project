@@ -6,11 +6,11 @@ We should put every entry under a heading with a date, and include whatever modi
 
 # 11/18 - Eloise
 * We were given equations in Lecture 10, slide 43, that matched the equations I had worked on deriving before. ( #TODO - ADD that initial document.) I am using these equations to govern initial calculations:
-$$A_{dc}=A_{v1}\cdot A_{v2}=G_{m1}\cdot R_{o1}\cdot G_{m2}\cdot R_{o2}\\
-\omega_{p1}\approx -\frac{1}{C_cG_{m2}R_{o2}R_{o1}}\\
-\omega_{p2}=-\frac{G_{m2}}{C_2}\\
-\omega_c=\omega_{p1}\cdot A_{dc}=\frac{G_{m1}}{C_c}\\
-PM=90\deg-\arctan(\frac{\omega_c}{\omega_{p2}})$$
+$$A_{dc}=A_{v1}\cdot A_{v2}=G_{m1}\cdot R_{o1}\cdot G_{m2}\cdot R_{o2}$$
+$$\omega_{p1}\approx -\frac{1}{C_cG_{m2}R_{o2}R_{o1}}$$
+$$\omega_{p2}=-\frac{G_{m2}}{C_2}$$
+$$\omega_c=\omega_{p1}\cdot A_{dc}=\frac{G_{m1}}{C_c}$$
+$$PM=90\deg-\arctan(\frac{\omega_c}{\omega_{p2}})$$
 * From these equations, I see the following knob possibilities:
 	* C_c: as discussed in class, we know this is free
 	* Gms
