@@ -6,6 +6,7 @@ We should put every entry under a heading with a date, and include whatever modi
 
 # 11/18 - Eloise
 * We were given equations in Lecture 10, slide 43, that matched the equations I had worked on deriving before. ( #TODO - ADD that initial document.) I am using these equations to govern initial calculations:
+
 $$
 A_{dc}=A_{v1}\cdot A_{v2}=G_{m1}\cdot R_{o1}\cdot G_{m2}\cdot R_{o2}
 $$
